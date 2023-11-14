@@ -1,9 +1,5 @@
 ## Toxic Comment Classification Challenge
-In this practical assessment, we’ll simulate a Kagglechallenge for classifying the level of toxicity of disrespectful comments in social media.
-
-Kaggle is one of the largest online communities for data scientists and machine learning practitioners. It enables users to find and publish datasets, explore and build Deep Learning models, and collaborate with other data scientists and ML engineers around the world. One of its more interesting features is the Machine Learning Competitions, which attract over a thousand teams and individuals every yeari. These competitions consist of problems posted by companies and/or research institutions in which teams compete to build the best algorithm. Some competitions have prizes in cashii.
-
-Among the most popular Kaggle competitions is the Toxic Comment Classification Challenge. This challenge occurs annually since 2018 and consist of researching and developing methods for detecting and classifying different levels of toxicity in negative and disrespectful online comments, from insults to violent threats. In this assessment, we’ll be using the dataset from the first competition for analysing the performance of different MachineLearning methods for classifying 6 types of toxicity. Details on the dataset and instructions on how to use are available here: Toxic Comment Classification Challenge.
+This practical assessment simulates a 2018 Kaggle challenge for $35000 focusing on classifying the level of toxicity in disrespectful comments on social media. Kaggle, a prominent online community for data scientists and machine learning practitioners, hosts machine learning competitions where participants compete to build effective algorithms. The Toxic Comment Classification Challenge, a popular Kaggle competition since 2018, involves developing methods for detecting and classifying various levels of toxicity in online comments.
 
 ### To complete this assignment
 Please carry out the following tasks:
