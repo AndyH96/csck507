@@ -11,6 +11,7 @@ Please carry out the following tasks:
 Perform detailed data analysis of the dataset provided by the competition, observing:
 Number of sentences and tokens per class (and check if the dataset is unbalanced or not).
 Analyse the most common words for each class and, therefore, understand the most used terms for each level of toxicity.
+
 **Select three Machine Learning algorithms among the ones listed below(many of these methods were explored in this module and previous ones):**
 - Support Vector Machine (SVM)
 - K-Nearest Neighbours (KNN)
