@@ -25,3 +25,5 @@ Analyse their performance in classifying the level of toxicity of different comm
 Consider the main Feature Extraction methods studied in previous Lectures, such as TF-IDF and WordEmbeddings. Using the same three classifier previously analysed, change the Feature Extraction method initially used (for example, if you used Word Embeddings, change to TF-IDF) and repeat the previous experiments and observe if there is any considerable difference between the new results and the previous one (i.e. if the method of feature extraction impacts the classification performance).
 
 Submit your best algorithm to the competition page and check how good it performs in comparison with other groups in the leader board. Discuss the reasons of that performance and what could be done to improve your proposed solution(maximum of two paragraphs).
+
+To run the code, you can either have it in a Jupyter Notebook with the installed requirements.txt or run it through a Google Colab.
