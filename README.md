@@ -11,14 +11,10 @@ Please carry out the following tasks:
 - Number of sentences and tokens per class (and check if the dataset is unbalanced or not).
 - Analyse the most common words for each class and, therefore, understand the most used terms for each level of toxicity.
 
-**Select three Machine Learning algorithms among the ones listed below(many of these methods were explored in this module and previous ones):**
+**Selected ML Models:**
 - Support Vector Machine (SVM)
-- K-Nearest Neighbours (KNN)
-- NaïveBayes
-- Decision Trees
+- Multinomial NaïveBayes
 - Logistic Regression
-- Random Forest
-- Multi-LayerPerceptron
   
 Analyse their performance in classifying the level of toxicity of different comments. Please make use of the main metrics **(accuracy, F1-score, Recall, Precision, and AUC)** to compare the different algorithms. Additionally, clearly explain the parameters defined for each model. Any MLpython Library can be used during implementation(such as sklearn and keras).
 
